@@ -1,5 +1,8 @@
 _repo: Vittoria-Volume-8_4442
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Meredith, George
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/520
     wikipedia: http://en.wikipedia.org/wiki/George_Meredith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4442#Vittoria-Volume-8
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2003-09-01'
 gutenberg_type: Text

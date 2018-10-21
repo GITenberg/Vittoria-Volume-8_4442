@@ -1,5 +1,5 @@
 _repo: Vittoria-Volume-8_4442
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Italy -- History -- Revolution of 1848 -- Fiction'
 - !lcsh 'War stories'
 - !lcc 'PR'
+- GITenberg
 title: Vittoria — Volume 8
 url: http://www.gutenberg.org/ebooks/4442
